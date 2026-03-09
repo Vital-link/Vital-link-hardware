@@ -1,0 +1,20 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Parry\Documents\GITHUB_desktop\Vital-link-hardware\simulations\SSD_LOAD_SWITCH.net
+Start Time: Sun Feb 15 18:36:51 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+C:\Users\Parry\Documents\GITHUB_desktop\Vital-link-hardware\simulations\SSD_LOAD_SWITCH.net(6): WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton. Increasing period to 100.
+
+V2 P001 0 PULSE(3.3 0 10m 1u 1u 100 1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Instance "u1:M1": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.114 seconds.
+
+Files loaded:
+C:\Users\Parry\Documents\GITHUB_desktop\Vital-link-hardware\simulations\SSD_LOAD_SWITCH.net
+C:\Users\Parry\Documents\GITHUB_desktop\Vital-link-hardware\simulations\library\FDN340P.lib
+
