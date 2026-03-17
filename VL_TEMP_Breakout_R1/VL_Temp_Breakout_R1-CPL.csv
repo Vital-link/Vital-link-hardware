@@ -1,0 +1,21 @@
+"Designator","Comment","Layer","Footprint","Mid X","Mid Y","Rotation","Description"
+"C4","10 �F �10% 10V","Top","CAP_0402","60.2593","12.0355","270","Capacitor SMD 0402"
+"C3","10 �F �10% 10V","Top","CAP_0402","28.6172","8.8912","270","Capacitor SMD 0402"
+"U2","XIAO-nRF52840-DIP","Top","XIAO-nRF52840-DIP","45.2882","11.9126","180",""
+"U1","MAX30205MTA+T","BottomLayer","SON65P300X300X80-9N","69.0000","11.5000","270","Human Body Temperature Sensor"
+"SKT1","CONN MICRO SD CARD R/A SMD-47219-2001","Top","MOLX-47219-2001-8_V","12.0000","11.8026","90","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel"
+"R8","22 Ohms �1% 0.1W","Top","RES_0603","33.5559","14.4976","180","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R7","22 Ohms �1% 0.1W","Top","RES_0603","33.5559","11.8634","180","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R6","22 Ohms �1% 0.1W","Top","RES_0603","33.5559","16.9926","180","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R5","4.7 kOhms �1% 0.1W","Top","RES_0603","58.3946","11.8127","90","Resistor SMD 0603"
+"R4","10 kOhms �1% 0.1W","Top","RES_0603","24.1046","11.9888","0","Resistor SMD 0603
+10 kOhms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R3","220 Ohms �5% 0.1W","Top","RES_0603","33.4728","19.6026","0","220 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R2","4.7 kOhms �1% 0.1W","Top","RES_0603","58.3946","16.1676","270","Resistor SMD 0603"
+"R1","4.7 kOhms �1% 0.1W","Top","RES_0603","56.4134","13.3250","270","Resistor SMD 0603"
+"Q1","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","Top","FP-527AG-IPC_C","23.8958","9.2976","0","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel"
+"C5","22 �F �20% 10V","Top","CAP_0603","30.6070","8.6106","270","Capacitor SMD 0603
+22 �F �20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C2","1 �F �10% 6.3v","Top","CAP_0402","26.8646","8.8712","270","Capacitor SMD 0402
+1 �F �10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C1","0.1 �F �10% 16V","Top","CAP_0402","21.0248","7.8606","270","0.1 �F �10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"

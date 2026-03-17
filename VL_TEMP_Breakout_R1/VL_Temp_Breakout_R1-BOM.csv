@@ -1,0 +1,17 @@
+Line #,Description,Designator,Name,Manufacturer,Manufacturer Part Number,Footprint,Quantity,LCSC
+
+"","0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)","C1","0.1 µF ±10% 16V","KEMET","C0402C104K4RACTU","CAP_0402","1","C169842"
+"","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)","C2","1 µF ±10% 6.3v","Murata Electronics","GRM155R70J105KA12D","CAP_0402","1","C88945"
+"","Capacitor SMD 0402","C3, C4","10 µF ±10% 10V","Murata Electronics","GRM188Z71A106KA73D","CAP_0402","2","C2959727"
+"","Capacitor SMD 0603
+22 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)","C5","22 µF ±20% 10V","Murata Electronics","GRM188R61A226ME15D","CAP_0603","1","C84419"
+"","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel","Q1","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","onsemi","FDN340P","FP-527AG-IPC_C","1","C75469"
+"","Resistor SMD 0603","R1, R2, R5","4.7 kOhms ±1% 0.1W","YAGEO","RC0603FR-074K7L","RES_0603","3","C99782"
+"","220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R3","220 Ohms ±5% 0.1W","YAGEO","RC0603FR-07220RL","RES_0603","1","C107696"
+"","Resistor SMD 0603
+10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R4","10 kOhms ±1% 0.1W","YAGEO","RC0603FR-0710KL","RES_0603","1","C98220"
+"","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R6, R7, R8","22 Ohms ±1% 0.1W","YAGEO","RC0603FR-0722RL","RES_0603","3","C107701"
+"","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel","SKT1","CONN MICRO SD CARD R/A SMD-47219-2001","Molex","0472192001","MOLX-47219-2001-8_V","1","C164170"
+"","Human Body Temperature Sensor","U1","MAX30205MTA+T","","","SON65P300X300X80-9N","1",""
+"","","U2","XIAO-nRF52840-DIP","","","XIAO-nRF52840-DIP","1",""
