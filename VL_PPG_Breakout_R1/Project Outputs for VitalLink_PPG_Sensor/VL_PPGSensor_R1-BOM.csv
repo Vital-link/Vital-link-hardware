@@ -1,0 +1,21 @@
+Line #,Name,Description,Designator,Footprint,Manufacturer,Manufacturer Part Number,Quantity,LCSC
+
+"","MAX30102EFD+T, XIAO-nRF52840-DIP","Biometric Sensors Integrated Optical Sensor, [NoValue]","B1, XIAO1","MAX30102EFDT, XIAO-nRF52840-DIP","","","2",""
+"","4.7 µF ±10% 10V","4.7 µF ±10% 10V Ceramic Capacitor X5R 0603 (1608 Metric)","C1","CAP_0603","Samsung Electro-Mechanics","CL10A475KP8NNNC","1","C1705"
+"","0.1 µF ±10% 16V","0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)","C2, C4, C9, C10","CAP_0402","KEMET","C0402C104K4RACTU","4","C169842"
+"","10 µF ±10% 10V","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603","C3","CAPC2013X135X45NL10T25","Murata Electronics","GRM188Z71A106KA73D","1","C2959727"
+"","1 µF ±10% 6.3v","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)","C7, C8, C11","CAP_0402","Murata Electronics","GRM155R70J105KA12D","3","C88945"
+"","22 µF ±20% 10V","Capacitor SMD 0603
+22 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)","C13","CAP_0603","Murata Electronics","GRM188R61A226ME15D","1","C84419"
+"","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel","Q1","FP-527AG-IPC_C","onsemi","FDN340P","1","C75469"
+"","4.7 kOhms ±1% 0.1W","Resistor SMD 0603","R1, R2, R3, R4, R5","RES_0603","YAGEO","RC0603FR-074K7L","5","C99782"
+"","200 kOhms ±0.1%","200 kOhms ±0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film","R6","RES_0402","YAGEO","RT0402BRD07200KL","1","C728556"
+"","10 kOhms ±1% 0.1W","Resistor SMD 0603
+10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R7","RES_0603","YAGEO","RC0603FR-0710KL","1","C98220"
+"","220 Ohms ±5% 0.1W","220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R8","RES_0603","YAGEO","RC0603FR-07220RL","1","C107696"
+"","22 Ohms ±1% 0.1W","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R9, R10, R11","RES_0603","YAGEO","RC0603FR-0722RL","3","C107701"
+"","CONN MICRO SD CARD R/A SMD-47219-2001","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel","SKT1","MOLX-47219-2001-8_V","Molex","0472192001","1","C164170"
+"","TPS7A2018PDBVR","300mA ultra-low-noise low-IQ low-dropout (LDO) linear regulator with high PSRR 5-SOT-23 -40 to 125","U1","FP-DBV0005A-IPC_B","Texas Instruments","TPS7A2018PDBVR","1","C963430"
+"","PCA9306DCUR","2-bit bidirectional 400-kHz I2C/SMBus voltage level translator 8-VSSOP -40 to 85","U2","FP-DCU0008A-IPC_B","Texas Instruments","PCA9306DCUR","1","C33196"

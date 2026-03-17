@@ -1,0 +1,35 @@
+"Designator","Comment","Layer","Footprint","Mid X","Mid Y","Rotation","Description"
+"U1","TPS7A2018PDBVR","Top","FP-DBV0005A-IPC_B","3.9370","17.1450","0","300mA ultra-low-noise low-IQ low-dropout (LDO) linear regulator with high PSRR 5-SOT-23 -40 to 125"
+"C7","1 �F �10% 6.3v","Top","CAP_0402","2.7940","13.9700","270","Capacitor SMD 0402
+1 �F �10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"R6","200 kOhms �0.1%","Top","RES_0402","15.1130","20.7010","90","200 kOhms �0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"
+"XIAO1","XIAO-nRF52840-DIP","Top","XIAO-nRF52840-DIP","26.6328","12.4460","0",""
+"R11","22 Ohms �1% 0.1W","Top","RES_0603","38.6080","7.2390","0","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"U2","PCA9306DCUR","Top","FP-DCU0008A-IPC_B","11.8110","18.9230","0","2-bit bidirectional 400-kHz I2C/SMBus voltage level translator 8-VSSOP -40 to 85"
+"TP1","TPAD6R","Top","TP06R","5.0800","19.5580","90","0.6mm round"
+"SKT1","CONN MICRO SD CARD R/A SMD-47219-2001","Top","MOLX-47219-2001-8_V","53.0600","11.9920","270","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel"
+"R10","22 Ohms �1% 0.1W","Top","RES_0603","38.6080","9.9060","0","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R9","22 Ohms �1% 0.1W","Top","RES_0603","38.6080","12.4460","0","22 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R8","220 Ohms �5% 0.1W","Top","RES_0603","38.6080","4.8260","180","220 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R7","10 kOhms �1% 0.1W","Top","RES_0603","42.2910","14.2240","180","Resistor SMD 0603
+10 kOhms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R5","4.7 kOhms �1% 0.1W","Top","RES_0603","14.2240","16.5100","0","Resistor SMD 0603"
+"R4","4.7 kOhms �1% 0.1W","Top","RES_0603","15.7480","4.8260","270","Resistor SMD 0603"
+"Q1","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","Top","FP-527AG-IPC_C","42.1640","16.8910","180","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel"
+"C13","22 �F �20% 10V","Top","CAP_0603","37.5920","16.2560","90","Capacitor SMD 0603
+22 �F �20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C11","1 �F �10% 6.3v","Top","CAP_0402","39.4970","16.2560","90","Capacitor SMD 0402
+1 �F �10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C10","0.1 �F �10% 16V","Top","CAP_0402","12.8270","21.2090","180","0.1 �F �10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C9","0.1 �F �10% 16V","Top","CAP_0402","8.7630","19.0500","90","0.1 �F �10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"R3","4.7 kOhms �1% 0.1W","Top","RES_0603","6.4770","9.0170","90","Resistor SMD 0603"
+"R2","4.7 kOhms �1% 0.1W","Top","RES_0603","5.5880","14.2240","180","Resistor SMD 0603"
+"R1","4.7 kOhms �1% 0.1W","Top","RES_0603","10.7950","16.5100","0","Resistor SMD 0603"
+"C8","1 �F �10% 6.3v","Top","CAP_0402","7.1120","19.0500","90","Capacitor SMD 0402
+1 �F �10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C4","0.1 �F �10% 16V","Top","CAP_0402","14.4860","8.1280","0","0.1 �F �10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C3","10 �F �10% 10V","Top","CAPC2013X135X45NL10T25","12.7000","5.5880","90","Capacitor SMD 0603
+10 �F �10% 10V Ceramic Capacitor X7R 0603"
+"C2","0.1 �F �10% 16V","Top","CAP_0402","10.4140","7.6200","180","0.1 �F �10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C1","4.7 �F �10% 10V","Top","CAP_0603","10.0330","5.7150","0","4.7 �F �10% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"B1","MAX30102EFD+T","BottomLayer","MAX30102EFDT","11.0490","11.6270","270","Biometric Sensors Integrated Optical Sensor"
