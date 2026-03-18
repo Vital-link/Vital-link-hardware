@@ -1,0 +1,27 @@
+Line #,Description,Designator,Name,Manufacturer,Manufacturer Part Number,Quantity,LCSC
+
+"","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)","C1, C2, C6, C8, C10, C11, C16","1 µF ±10% 6.3v","Murata Electronics","GRM155R70J105KA12D","7","C88945"
+"","Capacitor SMD 0402 - 10PF
+10 pF ±0.25pF 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)","C3, C4","10 pF ±0.25pF 50V","Samsung Electro-Mechanics","CL05C100CB5NNNC","2","C318588"
+"","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603, Capacitor SMD 0402","C5, C7, C12, C13, C17","10 µF ±10% 10V","Murata Electronics","GRM188Z71A106KA73D","5","C2959727"
+"","Capacitor SMD 0402 - 1000PF
+1000 pF ±1% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)","C9, C14","1000 pF ±1% 50V","Murata Electronics","GCM1555C1H102FA16D","2","C126493"
+"","0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)","C15","0.1 µF ±10% 16V","KEMET","C0402C104K4RACTU","1","C169842"
+"","Capacitor SMD 0603
+22 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)","C18","22 µF ±20% 10V","Murata Electronics","GRM188R61A226ME15D","1","C84419"
+"","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel","Q1","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","onsemi","FDN340P","1","C75469"
+"","Resistor SMD 0603
+49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R1, R2","49.9 kOhms ±1% 0.1W","YAGEO","RC0603FR-0749K9L","2","C114624"
+"","Resistor SMD 0603
+0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R3","0 Ohm 0.1W","YAGEO","RC0603JR-070RL","1","C95177"
+"","220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R4","220 Ohms ±5% 0.1W","YAGEO","RC0603FR-07220RL","1","C107696"
+"","Resistor SMD 0603
+10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R5","10 kOhms ±1% 0.1W","YAGEO","RC0603FR-0710KL","1","C98220"
+"","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film","R6, R7, R8","22 Ohms ±1% 0.1W","YAGEO","RC0603FR-0722RL","3","C107701"
+"","","SB1, SB2, U3","snapButton, XIAO-nRF52840-DIP","","","3",""
+"","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel","SKT1","CONN MICRO SD CARD R/A SMD-47219-2001","Molex","0472192001","1","C164170"
+"","50-mA, ultra-low-IQ, low-dropout voltage regulator with power good 5-SC70 -40 to 85","U1","IC REG LINEAR 1.8V 50MA SC-70-5 - TPS79718DCKR","Texas Instruments","Texas Instruments","1","C201590"
+"","AFE General Purpose 1 ADC 18bit 28-Pin TQFN EP Tray","U2","MAX30003CTI+","Analog Devices Inc./Maxim Integrated","MAX30003CTI+","1","C1519515"
+"","Oscillator XO 0.032768MHz ±25ppm 15pF CMOS 60% 1.8V 4-Pin SMD T/R","Y1","ASDK2-32.768KHZ-LRT","Abracon LLC","ASDK2-32.768KHZ-LRT","1","C5280579"

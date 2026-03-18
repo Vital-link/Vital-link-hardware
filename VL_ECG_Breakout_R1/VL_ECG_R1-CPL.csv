@@ -1,0 +1,56 @@
+"Designator","Comment","Layer","Footprint","Mid X","Mid Y","Rotation","Description"
+"U3","XIAO-nRF52840-DIP","TopLayer","XIAO-nRF52840-DIP","50.3682","10.8966","180",""
+"Y1","ASDK2-32.768KHZ-LRT","TopLayer","FP-ASDK-MFG","76.8125","13.0000","180","Oscillator XO 0.032768MHz ±25ppm 15pF CMOS 60% 1.8V 4-Pin SMD T/R"
+"SKT1","CONN MICRO SD CARD R/A SMD-47219-2001","TopLayer","MOLX-47219-2001-8_V","19.0000","11.7496","90","MicroSD Card Connector, Hinge Type, -40 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel"
+"R3","0 Ohm 0.1W","TopLayer","RES_0603","84.3788","10.2616","270","Resistor SMD 0603
+0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R7","22 Ohms ±1% 0.1W","TopLayer","RES_0603","38.5822","15.9636","180","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R6","22 Ohms ±1% 0.1W","TopLayer","RES_0603","38.5822","13.3868","180","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"C16","1 µF ±10% 6.3v","TopLayer","CAP_0402","35.4894","7.7022","270","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C11","1 µF ±10% 6.3v","TopLayer","CAP_0402","79.0000","10.4755","270","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C2","1 µF ±10% 6.3v","TopLayer","CAP_0402","63.6250","7.1178","180","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C1","1 µF ±10% 6.3v","TopLayer","CAP_0402","63.5966","2.5332","180","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C17","10 µF ±10% 10V","TopLayer","CAP_0603","37.3882","7.4166","90","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603"
+"U2","MAX30003CTI+","TopLayer","QFN50P500X500X80-29N","72.1514","9.8485","90","AFE General Purpose 1 ADC 18bit 28-Pin TQFN EP Tray"
+"SB1","snapButton","TopLayer","snapConnector","92.5000","11.3000","0",""
+"SB2","snapButton","TopLayer","snapConnector","7.5000","11.3000","0",""
+"R5","10 kOhms ±1% 0.1W","TopLayer","RES_0603","32.2500","11.7496","0","Resistor SMD 0603
+10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R4","220 Ohms ±5% 0.1W","TopLayer","RES_0603","38.5806","18.5166","0","220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R8","22 Ohms ±1% 0.1W","TopLayer","RES_0603","38.5822","10.8670","180","22 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R2","49.9 kOhms ±1% 0.1W","TopLayer","RES_0603","77.0000","4.1134","0","Resistor SMD 0603
+49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R1","49.9 kOhms ±1% 0.1W","TopLayer","RES_0603","69.9014","4.1134","180","Resistor SMD 0603
+49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"Q1","MOSFET P-CH 20V 2A SUPERSOT3-FDN340P","TopLayer","FP-527AG-IPC_C","32.2500","9.0000","0","Transistor MOSFET P Channel 20 Volt 2 Amp 3 Pin Supersot Tape and Reel"
+"C18","22 µF ±20% 10V","TopLayer","CAP_0603","39.4152","7.4166","270","Capacitor SMD 0603
+22 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C15","0.1 µF ±10% 16V","TopLayer","CAP_0402","28.0000","6.5000","270","0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C14","1000 pF ±1% 50V","TopLayer","CAP_0402","76.8125","10.3485","0","Capacitor SMD 0402 - 1000PF
+1000 pF ±1% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C13","10 µF ±10% 10V","TopLayer","CAP_0603","79.7115","13.4103","90","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603"
+"C12","10 µF ±10% 10V","TopLayer","CAP_0603","71.9950","14.7895","270","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603"
+"C10","1 µF ±10% 6.3v","TopLayer","CAP_0402","68.9581","13.8051","180","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C9","1000 pF ±1% 50V","TopLayer","CAP_0402","73.2244","5.7269","0","Capacitor SMD 0402 - 1000PF
+1000 pF ±1% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C7","10 µF ±10% 10V","TopLayer","CAP_0603","67.3143","11.8665","0","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603"
+"C8","1 µF ±10% 6.3v","TopLayer","CAP_0402","76.3555","8.1178","90","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C4","10 pF ±0.25pF 50V","TopLayer","CAP_0402","74.3575","3.6135","270","Capacitor SMD 0402 - 10PF
+10 pF ±0.25pF 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C3","10 pF ±0.25pF 50V","TopLayer","CAP_0402","72.4174","3.6135","270","Capacitor SMD 0402 - 10PF
+10 pF ±0.25pF 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C6","1 µF ±10% 6.3v","TopLayer","CAP_0402","68.0979","7.6178","270","Capacitor SMD 0402
+1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C5","10 µF ±10% 10V","TopLayer","CAP_0603","67.2724","9.8157","0","Capacitor SMD 0603
+10 µF ±10% 10V Ceramic Capacitor X7R 0603"
+"U1","IC REG LINEAR 1.8V 50MA SC-70-5 - TPS79718DCKR","TopLayer","DCK0005A_N","63.0000","4.7955","0","50-mA, ultra-low-IQ, low-dropout voltage regulator with power good 5-SC70 -40 to 85"
