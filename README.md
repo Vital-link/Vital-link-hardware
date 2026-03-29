@@ -1,6 +1,6 @@
-Here contains the hardware for VITAL-LINK a capstone project from BCIT 2026.
+Hardware subsystem for VITAL-LINK (BCIT Capstone 2026)
+Designed and developed a modular health monitoring platform integrating multiple biosensors to demonstrate a scalable, proof-of-concept system for real-time physiological data acquisition.
 
-Our objective was to build several sensors to provide a proof of concept of a modular health monitoring concept.
 ## ECG
 
 <img width="1024" height="543" alt="image" src="https://github.com/user-attachments/assets/a90248a0-5c8d-42b4-afb1-55b52f8f8790" />
