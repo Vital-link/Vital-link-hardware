@@ -3,9 +3,9 @@ Here contains the hardware for VITAL-LINK a capstone project from BCIT 2026.
 Our objective was to build several sensors to provide a proof of concept of a modular health monitoring concept.
 ## ECG
 
+<img width="825" height="591" alt="image" src="https://github.com/user-attachments/assets/b54f33da-77ff-481c-be46-9bf92c6b7570" />
 <img width="1019" height="270" alt="image" src="https://github.com/user-attachments/assets/0fba8130-0667-4546-8023-d0c46e93e0b8" />
 <img width="1003" height="272" alt="image" src="https://github.com/user-attachments/assets/87bbdfd4-7d20-4f3d-bc93-c68486741547" />
-<img width="825" height="591" alt="image" src="https://github.com/user-attachments/assets/b54f33da-77ff-481c-be46-9bf92c6b7570" />
 
 ## PPG
 
