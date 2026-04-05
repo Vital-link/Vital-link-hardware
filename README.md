@@ -1,6 +1,7 @@
 ## Hardware subsystem for VITAL-LINK (BCIT Capstone 2026)
 
 This system implements a modular health monitoring architecture, combining multiple sensor nodes to capture physiological signals. The design demonstrates a scalable proof-of-concept for real-time data acquisition, processing, and expansion of wearable health systems.
+(PROJECT STILL IN PROGRESS)
 
 ## ECG
 
